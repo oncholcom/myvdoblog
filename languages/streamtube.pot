@@ -1,0 +1,1133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: streamtube\n"
+"POT-Creation-Date: 2023-02-14 22:18+0700\n"
+"PO-Revision-Date: 2016-01-22 14:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: https://themeforest.net/user/phpface\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e;esc_attr_e;esc_attr__;_n\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:22
+msgid "Oops, page not found"
+msgstr ""
+
+#: ../404.php:24
+msgid "404"
+msgstr ""
+
+#: ../404.php:28
+msgid "The page you are looking for does not exist. It might have been moved or deleted."
+msgstr ""
+
+#: ../404.php:34
+msgid "back to home"
+msgstr ""
+
+#: ../archive-video.php:76
+msgid "No posts were found"
+msgstr ""
+
+#: ../bbpress/forum-tabs.php:6
+msgid "Forums"
+msgstr ""
+
+#: ../bbpress/loop-single-forum.php:67
+msgid "Topics"
+msgstr ""
+
+#: ../bbpress/loop-single-forum.php:71
+msgid "Posts"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:70
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:78
+#, php-format
+msgid "in: %1$s"
+msgstr ""
+
+#: ../bbpress/user-details.php:23
+#, php-format
+msgid "%s's Topics Started"
+msgstr ""
+
+#: ../bbpress/user-details.php:23
+msgid "Topics Started"
+msgstr ""
+
+#: ../bbpress/user-details.php:28
+#, php-format
+msgid "%s's Replies Created"
+msgstr ""
+
+#: ../bbpress/user-details.php:28
+msgid "Replies Created"
+msgstr ""
+
+#: ../bbpress/user-details.php:33
+#, php-format
+msgid "%s's Engagements"
+msgstr ""
+
+#: ../bbpress/user-details.php:33
+msgid "Engagements"
+msgstr ""
+
+#: ../bbpress/user-details.php:39
+#, php-format
+msgid "%s's Favorites"
+msgstr ""
+
+#: ../bbpress/user-details.php:39
+msgid "Favorites"
+msgstr ""
+
+#: ../bbpress/user-details.php:47
+#, php-format
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: ../bbpress/user-details.php:47
+msgid "Subscriptions"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Older"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Newer"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:123
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:125
+msgid "Add widgets here to appear in primary sidebar."
+msgstr ""
+
+#: ../functions.php:135
+msgid "Secondary"
+msgstr ""
+
+#: ../functions.php:137
+msgid "Add widgets here to appear in secondary sidebar."
+msgstr ""
+
+#: ../functions.php:147
+msgid "Featured"
+msgstr ""
+
+#: ../functions.php:149
+msgid "Add widgets here to appear in featured sidebar."
+msgstr ""
+
+#: ../functions.php:159
+msgid "Content Bottom"
+msgstr ""
+
+#: ../functions.php:161
+msgid "Add widgets here to appear in content bottom sidebar."
+msgstr ""
+
+#: ../functions.php:177
+#, php-format
+msgid "Footer %s"
+msgstr ""
+
+#: ../functions.php:181
+msgid "Add widgets here to appear in footer sidebar."
+msgstr ""
+
+#: ../inc/bbpress.php:43
+msgid "bbPress"
+msgstr ""
+
+#: ../inc/bbpress.php:45
+msgid "Add widgets here to appear in bbPress primary sidebar."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:393
+#: ../inc/class-tgm-plugin-activation.php:912
+#: ../inc/class-tgm-plugin-activation.php:2618
+#: ../inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:394
+#: ../inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:395
+#: ../inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1019
+#: ../inc/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2639
+#: ../paid-memberships-pro/pages/invoice.php:60
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2808
+#: ../paid-memberships-pro/pages/billing.php:468
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3594
+#: ../inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3594
+#: ../inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-theme-license.php:222
+msgid "Undefined Error, please try again."
+msgstr ""
+
+#: ../inc/class-theme-license.php:261 ../inc/class-theme-license.php:303
+msgid "Not verified yet"
+msgstr ""
+
+#: ../inc/class-theme-license.php:418
+msgid "Invalid Purchase Code"
+msgstr ""
+
+#: ../inc/class-theme-license.php:499
+#, php-format
+msgid "Congratulations, you have verified <strong>%s - %s</strong> successfully"
+msgstr ""
+
+#: ../inc/class-theme-license.php:542
+#, php-format
+msgid "Congratulations, you verified <strong>%s - %s</strong> successfully."
+msgstr ""
+
+#: ../inc/class-theme-license.php:556
+msgid "No permission"
+msgstr ""
+
+#: ../inc/class-theme-license.php:565
+msgid "Dismissed"
+msgstr ""
+
+#: ../inc/class-theme-license.php:578
+#, php-format
+msgid "Would you like to receive automatic updates and unlock premium support? Please %s of %s."
+msgstr ""
+
+#: ../inc/class-theme-license.php:579
+msgid "activate your copy"
+msgstr ""
+
+#: ../inc/class-theme-license.php:709 ../inc/class-theme-license.php:710
+#: ../template-parts/admin/verify-license.php:24
+msgid "Verify License"
+msgstr ""
+
+#: ../inc/class-wp-bootstrap-navwalker.php:386
+msgid "Add a menu"
+msgstr ""
+
+#: ../inc/comment-functions.php:22 ../template-parts/post-date-diff.php:30
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../inc/comment-functions.php:173
+#, php-format
+msgid "last modified %s"
+msgstr ""
+
+#: ../inc/comment-functions.php:185
+msgid "show more"
+msgstr ""
+
+#: ../inc/comment-functions.php:192
+msgid "show less"
+msgstr ""
+
+#: ../inc/comment-functions.php:204
+msgid "Replies"
+msgstr ""
+
+#: ../inc/comment-functions.php:227 ../inc/comment-functions.php:228
+msgid "Reply"
+msgstr ""
+
+#: ../inc/mycred.php:36
+msgid "points"
+msgstr ""
+
+#: ../inc/option-functions.php:27 ../template-parts/comment/comment-form.php:49
+msgid "Name"
+msgstr ""
+
+#: ../inc/option-functions.php:28 ../paid-memberships-pro/pages/invoice.php:209
+msgid "Date"
+msgstr ""
+
+#: ../inc/option-functions.php:29
+msgid "Comments"
+msgstr ""
+
+#: ../inc/option-functions.php:37
+msgid "Views"
+msgstr ""
+
+#: ../inc/template-functions.php:191 ../page-templates/page-boxed.php:65
+#: ../template-parts/content/content-page.php:52
+#: ../template-parts/content/content.php:64
+msgid "Continue reading"
+msgstr ""
+
+#: ../inc/template-functions.php:236
+msgid "Please enter your password to unlock this content"
+msgstr ""
+
+#: ../inc/template-functions.php:243
+msgid "Unlock"
+msgstr ""
+
+#: ../inc/template-functions.php:710
+#: ../template-parts/search-form/dropdown-taxonomy.php:17
+msgid "All"
+msgstr ""
+
+#: ../inc/template-functions.php:748
+msgid "Collections"
+msgstr ""
+
+#: ../inc/template-functions.php:752
+msgid "Users"
+msgstr ""
+
+#: ../inc/template-tags.php:56
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:57
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/woocommerce.php:29
+msgid "Woocommerce Primary"
+msgstr ""
+
+#: ../inc/woocommerce.php:31
+msgid "Add widgets here to appear in Woocommerce primary sidebar."
+msgstr ""
+
+#: ../inc/wp-user-follow.php:114
+msgid "followers"
+msgstr ""
+
+#: ../page-templates/single-v2.php:83
+#: ../template-parts/content/content-search.php:79
+#: ../template-parts/content/content.php:88
+msgid "Tagged:"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:66
+#: ../paid-memberships-pro/pages/invoice.php:211
+msgid "Level"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:69
+msgid "Membership Fee"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:73
+#, php-format
+msgid "%s every %d %s."
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:75
+#, php-format
+msgid "%s per %s."
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:86
+msgid "Duration"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:94
+#: ../paid-memberships-pro/pages/invoice.php:162
+msgid "Payment Method"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:96
+#: ../paid-memberships-pro/pages/invoice.php:165
+msgid "ending in"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:98
+#: ../paid-memberships-pro/pages/invoice.php:170
+msgid "Expiration"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:123
+msgid "Your payment subscription is managed by PayPal. Please <a class=\"text-body fw-bold\" href=\"http://www.paypal.com\">login to PayPal here</a> to update your billing information."
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:128
+msgid "Your billing information cannot be updated at this time."
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:160
+#: ../paid-memberships-pro/pages/invoice.php:104
+msgid "Billing Address"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:164
+msgid "First Name"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:168
+msgid "Last Name"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:174
+msgid "Address 1"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:178
+msgid "Address 2"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:179
+msgid "optional"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:189
+msgid "City"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:193
+msgid "State"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:197
+msgid "Postal Code"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:206
+msgid "City, State Zip"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:269
+msgid "Country"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:295
+msgid "Phone"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:306
+msgid "Email Address"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:322
+msgid "Confirm Email"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:352
+msgid "Credit Card Information"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:353
+#, php-format
+msgid "We accept %s"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:365
+msgid "Card Type"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:404
+msgid "Card Number"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:408
+msgid "Expiration Date"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:444
+msgid "CVV"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:445
+msgid "what's this?"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:470
+#: ../template-parts/comment/comment-form.php:27
+msgid "Cancel"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:502
+#, php-format
+msgid "Your membership is not active. <a href='%s'>Renew now.</a>"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:505
+#, php-format
+msgid "You do not have an active membership. <a href='%s'>Register here.</a>"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:508
+#, php-format
+msgid "You do not have an active membership. <a href='%s'>Choose a membership level.</a>"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/billing.php:511
+msgid "This subscription is not recurring. So you don't need to update your billing information."
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:32
+#, php-format
+msgid "Invoice #%s on %s"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:41
+msgid "Print"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:50
+msgid "Account"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:55
+msgid "Membership Level"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:63
+msgid "Paid"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:79
+msgid "Discount Code"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:186
+#: ../paid-memberships-pro/pages/invoice.php:212
+msgid "Total Billed"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:210
+msgid "Invoice #"
+msgstr ""
+
+#: ../paid-memberships-pro/pages/invoice.php:255
+msgid "No invoices found."
+msgstr ""
+
+#: ../searchform.php:20
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:24 ../template-parts/search-form.php:39
+msgid "Search here..."
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:37
+msgid "Access Token"
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:40
+#: ../template-parts/admin/verify-license.php:63
+#: ../template-parts/admin/verify-license.php:80
+msgid "(required)"
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:51
+msgid "Create your personal access token key"
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:60
+msgid "Purchase Code"
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:77
+msgid "Your Envato Username"
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:95
+msgid "IMPORTANT: do not share these two keys with anyone."
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:107
+msgid "Verified, check for update"
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:107
+msgid "Verify Purchase"
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:115
+msgid "Deregister"
+msgstr ""
+
+#: ../template-parts/admin/verify-license.php:125
+msgid "How to verfy purchase?"
+msgstr ""
+
+#: ../template-parts/alert/content-pending.php:18
+#, php-format
+msgid "This %s is pending review."
+msgstr ""
+
+#: ../template-parts/alert/content-private.php:18
+#, php-format
+msgid "This %s is privated."
+msgstr ""
+
+#: ../template-parts/comment/comment-form.php:24
+msgid "Post"
+msgstr ""
+
+#: ../template-parts/comment/comment-form.php:31
+#, php-format
+msgid "You must be %s to post a comment."
+msgstr ""
+
+#: ../template-parts/comment/comment-form.php:32
+msgid "logged in"
+msgstr ""
+
+#: ../template-parts/comment/comment-form.php:40
+msgid "Your comment"
+msgstr ""
+
+#: ../template-parts/comment/comment-form.php:57
+msgid "Email address"
+msgstr ""
+
+#: ../template-parts/comment/comment-form.php:65
+msgid "Website"
+msgstr ""
+
+#: ../template-parts/comment/comment-form.php:78
+msgid "Leave a comment"
+msgstr ""
+
+#: ../template-parts/content/content-none.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../template-parts/content/content-none.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../template-parts/content/content-taxonomy-playlist.php:102
+msgid "Private"
+msgstr ""
+
+#: ../template-parts/content/content-taxonomy-playlist.php:107
+msgid "Public"
+msgstr ""
+
+#: ../template-parts/content/content-taxonomy-playlist.php:116
+#: ../template-parts/content/content-taxonomy.php:39
+#, php-format
+msgid "%s video"
+msgstr ""
+
+#: ../template-parts/content/content-taxonomy.php:33
+#, php-format
+msgid "%s post"
+msgstr ""
+
+#: ../template-parts/content/content-taxonomy.php:46
+#, php-format
+msgid "%s product"
+msgstr ""
+
+#: ../template-parts/content/content.php:78
+msgid "Pages"
+msgstr ""
+
+#: ../template-parts/edit-link.php:20
+msgid "Edit"
+msgstr ""
+
+#: ../template-parts/footer/copyright.php:16
+#, php-format
+msgid "Copyright %s %s"
+msgstr ""
+
+#: ../template-parts/footer/socials.php:36
+msgid "Connect with us"
+msgstr ""
+
+#: ../template-parts/header/profile-dropdown.php:55
+msgid "Sign In"
+msgstr ""
+
+#: ../template-parts/header/profile-dropdown.php:151
+msgid "Dashboard"
+msgstr ""
+
+#: ../template-parts/header/profile-dropdown.php:180
+#, php-format
+msgid "%s mode"
+msgstr ""
+
+#: ../template-parts/header/profile-dropdown.php:193
+msgid "Customizer"
+msgstr ""
+
+#: ../template-parts/header/profile-dropdown.php:200
+msgid "Backend"
+msgstr ""
+
+#: ../template-parts/header/profile-dropdown.php:210
+msgid "Log Out"
+msgstr ""
+
+#: ../template-parts/page-header.php:61
+msgid "Blog"
+msgstr ""
+
+#: ../template-parts/page-header.php:76
+#, php-format
+msgid "Search result for \"%s\""
+msgstr ""
+
+#: ../template-parts/player-videojs.php:54
+msgid "Close"
+msgstr ""
+
+#: ../template-parts/player-videojs.php:163
+msgid "Link"
+msgstr ""
+
+#: ../template-parts/player-videojs.php:164
+msgid "Iframe"
+msgstr ""
+
+#: ../template-parts/player-videojs.php:224
+#, php-format
+msgid "%s is being encoded, please wait a minute."
+msgstr ""
+
+#: ../template-parts/player-videojs.php:305
+msgid "Video unavailable"
+msgstr ""
+
+#: ../template-parts/post-comment.php:29
+msgid "0 comments"
+msgstr ""
+
+#: ../template-parts/post-date-normal.php:23
+#, php-format
+msgid "on %s"
+msgstr ""
+
+#: ../template-parts/post-views.php:28
+#, php-format
+msgid "%s view"
+msgstr ""
+
+#: ../template-parts/search-form.php:38
+msgid "Search"
+msgstr ""
+
+#: ../template-parts/sortby.php:27
+#, php-format
+msgid "Sort by %s"
+msgstr ""
+
+#: ../template-parts/spinner.php:18
+msgid "Loading..."
+msgstr ""
+
+#: ../template-parts/term-play-all-overlay.php:21
+msgid "Play all"
+msgstr ""
+
+#: ../template-parts/turn-off-light.php:19
+msgid "Turn off light"
+msgstr ""
+
+#: ../template-parts/turn-off-light.php:20
+msgid "Turn on light"
+msgstr ""
+
+#: ../template-parts/up-next.php:27
+msgid "Turn on Up Next"
+msgstr ""
+
+#: ../template-parts/up-next.php:28
+msgid "Turn off Up Next"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:36 ../woocommerce/cart/cart.php:87
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:37 ../woocommerce/cart/cart.php:107
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:38 ../woocommerce/cart/cart.php:113
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:39 ../woocommerce/cart/cart.php:135
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:62
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:102
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:153
+msgid "Coupon:"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:153
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:153
+msgid "Apply coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:158
+msgid "Update cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:63
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:27
+#: ../woocommerce/single-product/sale-flash.php:27
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:20
+msgid "Billing address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:20
+msgid "Shipping address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: ../woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr ""
