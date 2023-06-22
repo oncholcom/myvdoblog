@@ -109,7 +109,7 @@ function streamtube_setup() {
 	// Add support for responsive embedded content.
 	add_theme_support( 'responsive-embeds' );
 	
-	add_theme_support('woocommerce');
+
 }
 add_action( 'after_setup_theme', 'streamtube_setup' );
 
@@ -411,8 +411,4 @@ if( class_exists( 'WP_Easy_Review' ) ){
 
 if( function_exists( 'bbpress' ) ){
 	require get_template_directory() . '/inc/bbpress.php';	
-}
-
-if( function_exists( 'WC' ) ){
-	require get_template_directory() . '/inc/woocommerce.php';		
 }
