@@ -1,0 +1,38 @@
+html[data-theme=dark]{
+	.site-main{
+		#buycred-checkout-page{
+			table{
+				color: #f9f9f9;
+			}
+
+			.checkout-order{
+				background-color: #222;
+			}			
+		}
+	}
+
+	#cashcred{
+
+		.cashcred-nav-tabs{
+		    border-bottom: 1px solid #444;
+			li{
+				color: #dee2e6;
+				border-color: #444 #444 #333;	
+			}
+
+			.active{
+			    background-color: #333;			
+			}
+		}
+
+		#cashcred_tab_content{
+			background: #1b1b1b;
+			border: 1px solid #222;
+		}
+	}
+
+	form#mycred-transfer-form-transfer{
+		background: #1b1b1b!important;
+		border-color: #222!important;
+	}
+}

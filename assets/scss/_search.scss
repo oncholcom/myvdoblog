@@ -1,0 +1,40 @@
+body.search{
+
+	.search-tabs{
+		margin-bottom: -1px;
+		margin-top: -0.5rem;
+		.nav-link{
+			font-family: 'Poppins', sans-serif;
+			padding: 0.8rem 1rem;
+			margin-bottom: 0;
+			&:hover,
+			&.active{
+				border-color: #f6f6f6 #f6f6f6 #fff;
+				border-top: 2px solid #CE1212;
+				background:none;					
+			}
+		}
+	}
+	
+	.page-main{
+		.post-grid-list_xl,
+		.post-grid-list_xxl{
+			.post-title{
+				font-size: 1.4rem;
+			}
+
+			.post-meta__items{
+				margin: 1rem 0;
+			}
+		}
+
+		.term-grid-widget,
+		.posts-widget{
+			margin-bottom: 0;
+
+			.navigation {
+				margin-bottom: 1.5rem!important;
+			}
+		}
+	}
+}

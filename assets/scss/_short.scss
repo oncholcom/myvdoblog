@@ -1,0 +1,67 @@
+.short-meta__item {
+    text-align: center;
+}
+
+.short__icon {
+    background: #eaeaea;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+
+    span {
+        font-size: 1.5rem;
+        color: #111;
+    }
+}
+
+.short__icon_text {
+	margin-top: 0.5rem;
+	font-size: .9rem;
+	font-weight: 700;
+}
+
+.short-avatar {
+    h5 {
+        font-size: 1rem;
+
+        a {
+            text-decoration: none;
+        }
+    }
+}
+
+.short-title {
+    font-size: 1rem;
+    font-weight: normal;
+
+    a{
+    	font-weight: normal;
+    }
+}
+
+.short-tags{
+	a{
+		color: #fff;
+		text-decoration: none;
+		margin-right: 0.5rem;
+		font-weight: 700;
+		font-size: .95rem;
+		position: relative;
+
+		&:before{
+			content: "#";
+			left: 0;
+		}
+	}
+}
+
+.short-player__bottom {
+    >div {
+        z-index: 1;
+    }
+
+    .bg-overlay {
+        z-index: 0;
+    }
+}

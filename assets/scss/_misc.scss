@@ -1,0 +1,179 @@
+.has-preloader{
+    .preloader{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: #fff;
+        z-index: 99999;
+    }    
+}
+
+.post-review{
+    padding: 1.5rem!important;
+}
+
+#user_switching_switch_on {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+.wppl-button-wrap{
+    .btn__icon{
+        font-size: 1.2rem;
+        color: #aaa;
+    }
+}
+
+.wppl-like-button{
+    &.active{
+        .btn__icon{
+            span{
+                color: #21de86;
+            }
+        }
+
+        .badge{
+            background-color: #198754!important;
+        }
+    }
+}
+
+.wppl-dislike-button{
+    &.active{
+        .btn__icon{
+            span{
+                color:#f15a69;
+            }
+        }
+
+        .badge{
+            background-color: #dc3545!important;
+        }        
+    }
+}
+
+.wppl-button-wrap{
+    .progress{
+        height: 5px;
+        top: -10px;
+        left: 0;        
+    }
+}
+
+.post-thumbnail{
+    .wppl-button-wrap{
+        .progress{
+            top: -5px;       
+        }
+    }    
+}
+
+.login-wrap{
+    height: calc( 100vh - 200px );
+}
+
+.multi-source-list{
+    max-height: 300px;
+    overflow-y: scroll;    
+}
+
+#light-off{
+    background: #000;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: .95;
+    z-index: 1000;    
+}
+
+.has-light-off{
+    .player-embed,
+    .sticky-player{
+        z-index: 1002;
+    }
+    #turn-off-light{
+        z-index: 1001;
+        background-color: #ce1212!important;
+        border: none!important;
+    
+        span{
+            color: #fff!important;
+        }
+    }
+}
+
+.btn-upnext{
+    &.auto-next{
+        background: #ce1212 !important;
+        span{
+            color: #fff!important;
+            &:before{
+                content: "\f205";
+            }
+        }
+    }
+}
+
+.ph-item {
+    background-color: transparent!important;
+    border: none!important;
+
+    .ph-picture,
+    .ph-avatar,
+    .ph-row div{
+        background-color: #ddd;    
+    }
+
+    .ph-row{
+        .empty{
+            background-color: transparent;
+        }    
+    }
+}
+
+.post-password-form{
+    button[type=submit]{
+        border-radius: 0.25rem;
+    }
+}
+
+.chapter-list{
+    list-style: none;
+    border: 1px solid #e9ecef;
+    max-height: 200px;
+    overflow: scroll;
+    border-radius: 3px;
+
+    li{
+        font-size: 1rem;
+        margin: 1rem 0;
+        border-bottom: 1px solid #e9ecef;
+        position: relative;
+        padding-left: 1.5rem;
+        cursor: pointer;
+
+        &:hover{
+            opacity: .8;
+        }
+
+        &:before{
+            font-family: "fontello";
+            content: "\f144";
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 7px;
+            height: 7px;
+            color: #aaa;
+        }
+
+        &:last-child{
+            border-bottom: none;
+        }  
+    }
+}

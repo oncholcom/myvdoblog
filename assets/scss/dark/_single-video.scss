@@ -1,0 +1,26 @@
+html[data-theme=dark]{
+	.player-wrapper{
+		.player-header{
+			background: #333;
+		}
+	}	
+
+	.single-body{
+		.post-tags{
+			a{
+				color: #fff;
+				background: #333;
+
+				&:hover{
+					    background: #222;
+				}
+			}
+		}
+	}
+
+	.single_video__comments--fixed{
+		.comment-respond{
+		    border-top: 1px solid #333!important;
+	    }
+	}
+}

@@ -1,0 +1,39 @@
+.member-loop{
+	.profile-top{
+		padding-bottom: 0;
+
+		.profile-header{
+			&:before{
+				padding-top: calc(9 / 21 * 100%);
+			}
+		}
+
+		.author-info{
+			padding-top: 50px;
+    		padding-bottom: 30px;			
+			.author-name{
+				font-size: 1rem;
+			    text-align: center;
+				margin-bottom: 1rem;
+			    a{
+			    	text-decoration: none;
+			    }
+			}			
+		}
+	}
+
+	.member-info{
+		font-size: .9rem;
+	    text-align: center;
+	    margin-top: 1rem;
+	    .member-info__item{
+	    	padding: 1rem;
+
+	    	.member-info__item__count{
+	    		font-size: 1rem;
+	    		font-weight: 600;
+	    		color: #212529;
+	    	}
+	    }
+	}
+}
